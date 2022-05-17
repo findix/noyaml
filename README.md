@@ -1,5 +1,5 @@
 # noyaml.com
 
-A silly emotional rant about the state of devops tooling/the infrastructure sector in 2018. 
+对 8012 年开发工具/基础设施界现状的幼稚咆哮。
 
-PR's that improve accessiblity or that cite rational artifacts about why YAML is good (or bad) are welcome.
+欢迎提交可以提升访问体验，或者引用有关 YAML 好（或坏）的合理原因的 PR
